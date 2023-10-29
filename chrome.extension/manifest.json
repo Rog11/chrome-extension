@@ -1,0 +1,17 @@
+{
+  // Required
+  "manifest_version": 2,
+  "name": "New Tab extension",
+  "version": "1",
+  "author": "LJT",
+
+
+  "browser_action": {  "default_icon": "tab-icon.png",  "default_title": "Have a good day" },
+
+
+  "chrome_url_overrides" : {  "newtab": "newtab.html"},
+
+  "permissions":["activeTab"]
+
+}
+
