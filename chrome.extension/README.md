@@ -1,4 +1,4 @@
-![Preview](https://github.com/sadparadiseinhell/null/blob/main/assets/null-preview.png)
+![Preview](https://github.com/rog11/null/blob/assets/null-preview.png)
 
 ## Settings
 ### Links
