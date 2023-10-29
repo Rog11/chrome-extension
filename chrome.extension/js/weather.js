@@ -1,5 +1,5 @@
-const key = '995496fca86c821776eb61233e771e26';
-const city_name = 'Arlington, US';
+const key = 'YOUR_OPENWEATHER_API';
+const city_name = 'YOUR_LOCATION';
 
 
 // getAir(); 
