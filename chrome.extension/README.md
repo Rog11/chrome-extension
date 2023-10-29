@@ -1,4 +1,4 @@
-![Preview](https://github.com/rog11/null/blob/assets/null-preview.png)
+![Preview]([chrome.extension/assets/null-preview.png](https://github.com/Rog11/chrome-extension/blob/main/chrome.extension/assets/null-preview.png))
 
 ## Settings
 ### Links
