@@ -56,7 +56,7 @@ function getWeatherInfo() {
 getAir(); 
 
 function getAir() {
-	fetch(`https://api.openweathermap.org/data/2.5/air_pollution?lat=25&lon=121&appid=995496fca86c821776eb61233e771e26`)
+	fetch(`https://api.openweathermap.org/data/2.5/air_pollution?lat=25&lon=121&appid=YOUR_API_KEY`)
 	.then(function (response) {
 		return response.json();
 	})
