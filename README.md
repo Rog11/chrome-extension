@@ -3,7 +3,7 @@
 # New tab extension for chrome
 Version: 1.0
 
-Description: This Chrome extension displays the weather, temperature, humidity, wind speed, and air quality on a new tab. It also provides links to your favorite websites. You can choose between a light and dark theme.
+This is a Chrome extension that displays the weather, temperature, humidity, wind speed, and air quality on a new tab. It also provides links to your favorite websites. You can choose between a light and dark theme.
 
 ## Settings
 ### Links
